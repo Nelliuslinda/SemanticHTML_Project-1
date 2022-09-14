@@ -1,1 +1,2 @@
-# SemanticHTML_Project-1
+# Semantic HTML
+Implentation of Project 2
