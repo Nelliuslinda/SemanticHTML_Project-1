@@ -1,2 +1,2 @@
 # Semantic HTML
-Implentation of Project 2
+Implentation of Project 1
